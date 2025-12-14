@@ -22,7 +22,6 @@ KEY FEATURES:
 •	Fully normalized tables for performance and data consistency
 
 
-
 ER DIAGRAM EXPLAINED :
 Department: It‍‌‍‍‌‍‌‍‍‌ represents the departments of a university with details like the name, building, and the budget that is allocated. It performs as a master entity that is linked with the faculty, courses, and students.
 Faculty: This procedure deals with the records of the staff that teaches, the information being the name, email, hire date, and the department they belong to. Every faculty member is associated with a single department
