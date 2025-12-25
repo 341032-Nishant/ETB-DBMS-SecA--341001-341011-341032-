@@ -1,4 +1,4 @@
-# [Project Name: e.g., University Management System]
+#University Management System
 
 ## 1. Introduction
 This project focuses on the design and implementation of a robust relational database system tailored for **[Insert Industry, e.g., Healthcare/Retail/Education]**. The goal is to provide a structured environment that ensures data integrity, minimizes redundancy, and allows for efficient querying and reporting.
