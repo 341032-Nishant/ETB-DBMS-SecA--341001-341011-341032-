@@ -1,7 +1,7 @@
-#University Management System
+# University Management System
 
 ## 1. Introduction
-This project focuses on the design and implementation of a robust relational database system tailored for **[Insert Industry, e.g., Healthcare/Retail/Education]**. The goal is to provide a structured environment that ensures data integrity, minimizes redundancy, and allows for efficient querying and reporting.
+This project focuses on the design and implementation of a robust relational database system tailored for an University. The goal is to provide a structured environment that ensures data integrity, minimizes redundancy, and allows for efficient querying and reporting.
 
 ## 2. Objective
 The primary objective of this database is to:
@@ -12,15 +12,15 @@ The primary objective of this database is to:
 ---
 
 ## Scope of Database
-The database covers the core operational workflows of **[Project Focus]**, including:
-* Management of **[Entity A, e.g., User Profiles]**.
-* Tracking of **[Entity B, e.g., Transactional History]**.
-* Reporting on **[Entity C, e.g., Monthly Analytics]**.
+The database covers the core operational workflows of **[Punjab University]**, including:
+* Management of **Student Lifecycle**.
+* Tracking of **Academic Progress**.
+* Reporting on **Institutional Analytics**.
 
 ## Entities and Their Description
 | Entity Name | Description | Key Attributes |
 | :--- | :--- | :--- |
-| **Users** | Stores personal information of registered members. | UserID, Email, Password |
+| **UStudent:** | Registered individuals identified by a unique Roll Number within a specific program.. | Roll_No(PK), Name, CNIC, Email, Prog_ID(FK) |
 | **Orders** | Records details of every purchase made. | OrderID, Date, TotalAmount |
 | **Products** | Maintains the inventory of available items. | ProductID, Price, StockLevel |
 | *[Add More]* | *[Brief Description]* | *[Primary/Foreign Keys]* |
