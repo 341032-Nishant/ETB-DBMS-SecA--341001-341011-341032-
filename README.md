@@ -2,6 +2,9 @@
 
 ## 1. Introduction
 This project focuses on the design and implementation of a robust relational database system tailored for an University. The goal is to provide a structured environment that ensures data integrity, minimizes redundancy, and allows for efficient querying and reporting.
+<p align="center">
+  <img src="./Punjab-University-Logo-Vector.svg-.png" alt="PU Logo" width="150">
+</p>
 
 ## 2. Objective
 The primary objective of this database is to:
